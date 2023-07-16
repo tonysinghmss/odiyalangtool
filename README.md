@@ -1,2 +1,2 @@
-# odiyalangtool
-Some scripts for odiya language
+# olangtool
+Some scripts for language
